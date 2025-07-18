@@ -35,7 +35,9 @@ Predicted catch rate
 🚀 Setup Instructions
 
 cd fishing-frontend
+
 npm install
+
 npm start
 
 App will run at: http://localhost:3000
@@ -57,9 +59,13 @@ CORS enabled for frontend-backend communication
 ⚙️ Setup Instructions
 
 cd fishing-backend
+
 python -m venv venv
+
 venv\Scripts\activate      # For Windows
+
 pip install -r requirements.txt
+
 python app.py
 
 
