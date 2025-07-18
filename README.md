@@ -37,6 +37,7 @@ Predicted catch rate
 cd fishing-frontend
 npm install
 npm start
+
 App will run at: http://localhost:3000
 
 ⚠️ Note: Uses react-scripts. You may see deprecation warnings – safe to ignore for now.
@@ -57,10 +58,10 @@ CORS enabled for frontend-backend communication
 
 cd fishing-backend
 python -m venv venv
-venv\Scripts\activate             # For Windows
+venv\Scripts\activate      # For Windows
 pip install -r requirements.txt
 python app.py
-API will run at: http://127.0.0.1:5000
+
 
 ✅ app.py automatically enables debug mode. Ensure to replace with a production server (e.g., Gunicorn) for deployment.
 
