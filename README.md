@@ -1,5 +1,3 @@
-How to Run
-⚙️ Backend Setup
 
 # Navigate to the backend directory
 cd fishing-backend
@@ -11,7 +9,6 @@ pip install -r requirements.txt
 python app.py
 
 Frontend Setup
-
 # Navigate to the frontend directory
 cd fishing-frontend
 
