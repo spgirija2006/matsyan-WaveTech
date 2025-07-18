@@ -1,6 +1,6 @@
 ## 🚀 How to Run
 
-### 🛠️ Backend Setup
+### 🛠️ Web App SetUp
 
 ```bash
 # Navigate to the backend directory
