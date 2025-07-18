@@ -1,5 +1,16 @@
-🎣 Fishing Route Optimizer – WaveTech Matsyan
+# 🎣 Fishing Route Optimizer – WaveTech Matsyan  
+
 A full-stack web application that recommends optimal fishing zones based on real-time weather conditions and machine learning predictions using a React frontend and Flask backend.
+
+---
+
+## 📥 Clone This Repository
+
+To get started, clone the repository using:
+
+git clone https://github.com/spgirija2006/matsyan-WaveTech.git
+
+cd matsyan-WaveTech
 
 📂 Project Structure
 bash
