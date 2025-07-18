@@ -1,31 +1,21 @@
-# 🐟 Matsyan – Fishing Route Optimizer
-
-WaveTech's project for smarter and safer fishing navigation.
-
-## 📦 Project Structure
-
-- `fishing-frontend/`: React + Leaflet map interface
-- `fishing-backend/`: Flask + ML model to predict fishing zones using weather APIs
-
-## 🌊 Features
-
-- Predict best fishing zones using weather data
-- Forecast up to 3 days
-- Visual map interface with safe zones
-- Route plotting and forecast-aware suggestions
-
 ## 🚀 How to Run
 
-### Backend
+### 🛠️ Backend Setup
 
 ```bash
+# Navigate to the backend directory
 cd fishing-backend
+
+# Install required Python packages
 pip install -r requirements.txt
+
+# Run the backend server
 python app.py
-
-
-### Frontend
-
+# Navigate to the frontend directory
 cd fishing-frontend
+
+# Install dependencies
 npm install
+
+# Start the development server
 npm start
